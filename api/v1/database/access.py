@@ -3,4 +3,4 @@ def GetConnectionString():
 
 
 def GetConnectionString_render():
-    return "postgresql://postgres_user:WidtsAe7dvcrITZ57Oy4yI47jO3Cs3M7/du_practice"
+    return "postgresql://postgres_user:WidtsAe7dvcrITZ57Oy4yI47jO3Cs3M7@dpg-cp6cm6gl6cac738iqhe0-a/du_practice"
